@@ -1,0 +1,16 @@
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF3B30</color>
+    <color name="orange">#FFB000</color>
+    <color name="yellow">#FFD54A</color>
+    <color name="green">#34C759</color>
+    <color name="panel_dark">#111827</color>
+    <color name="panel_mid">#1F2937</color>
+    <color name="panel_light">#374151</color>
+    <color name="needle_red">#FF4E50</color>
+    <color name="needle_shadow">#B91C1C</color>
+    <color name="text_primary">#F9FAFB</color>
+    <color name="text_secondary">#D1D5DB</color>
+    <color name="accent">#8B5CF6</color>
+</resources>

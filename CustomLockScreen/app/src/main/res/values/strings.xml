@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomLockScreen</string>
+    <string name="speedometer_label">Dashboard Unlock</string>
+    <string name="unlock_hint">Drag the needle to the maximum value</string>
+    <string name="unlock_with_biometric">Unlock with fingerprint</string>
+    <string name="notification_hint">Enable notification access to view alerts here</string>
+</resources>
